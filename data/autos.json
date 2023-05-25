@@ -7,5 +7,10 @@
     {
         "marca": "Toyota",
         "color": "negro"
+    },
+
+        {
+        "marca": "nissan",
+        "color": "verde"
     }
 ]
